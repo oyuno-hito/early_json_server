@@ -1,0 +1,2 @@
+# early_json_server
+json_serverをherokuにデプロイする
